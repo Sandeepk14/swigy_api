@@ -1,4 +1,15 @@
+
+
 {
+  "name": "index",
+  "version": "1.0.0",
+  "description": "Swigy API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sandeep Kumar",
+  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.1"
